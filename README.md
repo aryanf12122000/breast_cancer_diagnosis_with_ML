@@ -1,2 +1,2 @@
 # breast_cancer_diagnosis_with_ML
-still working on it
+This web application is designed to assist in the diagnosis of breast cancer by analyzing various parameters. The backend of the application utilizes ensemble learning, which is a method of combining multiple machine learning algorithms to improve the overall performance of the model. The ensemble learning approach used in this application is based on three different algorithms: Random Forest Classifier, K-Nearest Neighbors, and Support Vector Machine. These algorithms work together to analyze the input data and make predictions about the likelihood of breast cancer. The predictor model has been tested and reported to have an accuracy of 89.53%.
